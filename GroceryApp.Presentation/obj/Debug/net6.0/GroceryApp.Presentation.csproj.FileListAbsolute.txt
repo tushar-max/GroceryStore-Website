@@ -1,0 +1,148 @@
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\appsettings.json
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\GroceryApp.Presentation.exe
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\GroceryApp.Presentation.deps.json
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\GroceryApp.Presentation.runtimeconfig.json
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\GroceryApp.Presentation.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\GroceryApp.Presentation.pdb
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\Humanizer.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\GroceryApp.BL.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\GroceryApp.DAL.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\GroceryApp.BL.pdb
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\bin\Debug\net6.0\GroceryApp.DAL.pdb
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\obj\Debug\net6.0\GroceryApp.Presentation.csproj.AssemblyReference.cache
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\obj\Debug\net6.0\GroceryApp.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\obj\Debug\net6.0\GroceryApp.Presentation.AssemblyInfoInputs.cache
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\obj\Debug\net6.0\GroceryApp.Presentation.AssemblyInfo.cs
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\obj\Debug\net6.0\GroceryApp.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\obj\Debug\net6.0\GroceryApp.Presentation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\obj\Debug\net6.0\GroceryApp.Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\obj\Debug\net6.0\staticwebassets\msbuild.GroceryApp.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\obj\Debug\net6.0\staticwebassets\msbuild.build.GroceryApp.Presentation.props
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GroceryApp.Presentation.props
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GroceryApp.Presentation.props
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\obj\Debug\net6.0\scopedcss\bundle\GroceryApp.Presentation.styles.css
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\obj\Debug\net6.0\GroceryApp.Presentation.csproj.CopyComplete
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\obj\Debug\net6.0\GroceryApp.Presentation.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\obj\Debug\net6.0\refint\GroceryApp.Presentation.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\obj\Debug\net6.0\GroceryApp.Presentation.pdb
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\obj\Debug\net6.0\GroceryApp.Presentation.genruntimeconfig.cache
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.Presentation\obj\Debug\net6.0\ref\GroceryApp.Presentation.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\appsettings.json
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\GroceryApp.Presentation.exe
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\GroceryApp.Presentation.deps.json
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\GroceryApp.Presentation.runtimeconfig.json
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\GroceryApp.Presentation.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\GroceryApp.Presentation.pdb
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\Humanizer.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\GroceryApp.BL.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\GroceryApp.DAL.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\GroceryApp.BL.pdb
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\bin\Debug\net6.0\GroceryApp.DAL.pdb
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\obj\Debug\net6.0\GroceryApp.Presentation.csproj.AssemblyReference.cache
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\obj\Debug\net6.0\GroceryApp.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\obj\Debug\net6.0\GroceryApp.Presentation.AssemblyInfoInputs.cache
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\obj\Debug\net6.0\GroceryApp.Presentation.AssemblyInfo.cs
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\obj\Debug\net6.0\GroceryApp.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\obj\Debug\net6.0\GroceryApp.Presentation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\obj\Debug\net6.0\GroceryApp.Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\obj\Debug\net6.0\staticwebassets\msbuild.GroceryApp.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\obj\Debug\net6.0\staticwebassets\msbuild.build.GroceryApp.Presentation.props
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GroceryApp.Presentation.props
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GroceryApp.Presentation.props
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\obj\Debug\net6.0\scopedcss\bundle\GroceryApp.Presentation.styles.css
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\obj\Debug\net6.0\GroceryApp.Presentation.csproj.CopyComplete
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\obj\Debug\net6.0\GroceryApp.Presentation.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\obj\Debug\net6.0\refint\GroceryApp.Presentation.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\obj\Debug\net6.0\GroceryApp.Presentation.pdb
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\obj\Debug\net6.0\GroceryApp.Presentation.genruntimeconfig.cache
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.Presentation\obj\Debug\net6.0\ref\GroceryApp.Presentation.dll
