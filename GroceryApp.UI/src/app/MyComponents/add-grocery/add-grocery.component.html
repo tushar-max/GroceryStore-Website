@@ -1,0 +1,48 @@
+<div class="container my-5">
+    <h1 class="mb-3">Add New Products</h1>
+    <div class="row">
+        <div class="col-6">
+            <form #form="ngForm" (ngSubmit)="addProduct()">
+                <div class="mb-3">
+                    <label for="name" class="form-label">Product Name</label>
+                    <input type="text" class="form-control" id="name" name="name"
+                    [(ngModel)]="addProductRequest.productName">
+                </div>
+                <div class="mb-3">
+                    <label for="description" class="form-label">Description</label>
+                    <input type="text" class="form-control" id="description" name="description"
+                    [(ngModel)]="addProductRequest.description">
+                </div>
+                <div class="mb-3">
+                    <label for="price" class="form-label">Price</label>
+                    <input type="number" class="form-control" id="price" name="price"
+                    [(ngModel)]="addProductRequest.price">
+                </div>
+                <div class="mb-3">
+                    <label for="Discount" class="form-label">Discount (in percentage)</label>
+                    <input type="text" class="form-control" id="Discount" name="Discount"
+                    [(ngModel)]="addProductRequest.discount">
+                </div>
+                <div class="form-floating mb-3">
+                    <select class="form-select" id="Category" name="Category"[(ngModel)]="addProductRequest.Category">
+                      <option selected>Select Category</option>
+                      <option value="0">Fruits</option>
+                      <option value="1">Vegetables</option>
+                      <option value="2">Dairy Products</option>
+                      <option value="3">HealthCare</option>
+                    </select>
+                    <label for="Category">Category</label>
+                  </div>
+                
+                
+                <div class="mb-3">
+                    <label for="image" class="form-label">Image URL</label>
+                    <input type="text" class="form-control" id="image" name="image"
+                    [(ngModel)]="addProductRequest.image">
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+
+        </div>
+    </div>
+</div>

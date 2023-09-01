@@ -1,0 +1,23 @@
+<div class="container">
+    <h3>Cart Items</h3>
+    <table *ngIf="orderedItems.length>0">
+        <tr *ngFor="let item of orderedItems; let i=index">
+            <td [height]="100" [width]="100"><img src="{{item.image}}" alt="product image" height="100" width="100"></td>
+            <td>
+                <div class="container">
+                    <b><p>{{item.name}}</p></b>
+                    <p><small>{{item.count}} items</small></p>
+                </div>
+            </td>
+            <td [height]="100" [width]="100"></td>
+            <td [height]="100" [width]="100"></td>
+            <td [height]="100" [width]="100"></td>
+            <td>
+                <div>
+                    <p>{{item.dateTime}}</p>
+                </div>
+            </td>
+        </tr>
+    </table>
+    <b><h4 *ngIf="orderedItems.length<=0">No orders placed.</h4></b>
+</div>

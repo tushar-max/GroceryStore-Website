@@ -1,0 +1,24 @@
+<div class="container">
+    <h3>Cart Items</h3>
+    <table>
+        <tr *ngFor="let item of cartItems; let i=index">
+            <td *ngIf="item.count>0" [height]="100" [width]="100"><img src="{{item.image}}" alt="product image" height="100" width="100"></td>
+            <td *ngIf="item.count>0">
+                <div class="container">
+                    <b><p>{{item.productName}}</p></b>
+                    <i><p *ngIf="item.discount!=0" >Upto {{item.discount}}% off</p></i>
+
+                    <b><p>₹ {{item.price*(1-0.01*item.discount)}}</p></b>
+
+                </div>
+            </td>
+            <td *ngIf="item.count>0"><button class="button" (click)="minus(item)">-</button></td>
+            <td *ngIf="item.count>0">{{item.count}}</td>
+            <td *ngIf="item.count>0"><button class="button" (click)="plus(item)">+</button></td>
+        </tr>
+    </table>
+    <div *ngIf="cartItems.length>0" class="btn-group" role="group">
+        <button type="button" class="btn btn-secondary" (click)="placeOrder(cartItems)">Place Order</button>
+      </div>
+    <b><h4 *ngIf="cartItems.length<=0">No item in Cart.</h4></b>
+</div>

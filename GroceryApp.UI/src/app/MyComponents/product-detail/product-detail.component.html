@@ -1,0 +1,56 @@
+<div class="card" style="width: 95%;">
+    <div *ngIf="!isLoggedIn()" class="alert alert-warning alert-dismissible">
+        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+        <strong>You're not logged in!</strong> Please login to perform actions.
+    </div>
+    <img class="card-img-top image" src="{{productDetails.image}}" alt="Product Image">
+    <div class="card-body">
+        <b>
+            <p class="card-title" style="margin-left: 50%;">{{productDetails.productName}}</p>
+        </b>
+        <div>
+            <button type="button" (click)="checkout()" class="btn btn-primary checkout">Checkout</button>
+            <div class="buttons" *ngIf="isLoggedIn()">
+                <div class="btn-group" role="group" aria-label="Basic example">
+                    <button type="button" (click)="minus()" class="btn btn-secondary">-</button>&nbsp;&nbsp;&nbsp;&nbsp;
+                    <p>{{counter}}</p>
+                    &nbsp;&nbsp;&nbsp;&nbsp;
+                    <button type="button" (click)="plus()" class="btn btn-secondary">+</button>
+                </div>
+            </div>
+        </div>
+        <b>
+            <p style="margin-left: 40%;"> Price:{{actualPrice}}&nbsp;<s>{{productDetails.price}}</s></p>
+        </b>
+        <br><br>
+        <br>
+        <b>Description:</b>
+        <p class="card-text">{{productDetails.description}}</p>
+        <i>Flat {{productDetails.discount}} % off</i>
+        <br><br>
+        <b>Reviews:</b>
+        <br>
+        <p *ngIf="reviewsList.length==0">No Reviews Found for this product!</p>
+        <div class="col p-3 review">
+            <div class="card mt-3" *ngFor="let review of reviewsList">
+                <div class="card-header d-flex justify-content-between">
+                    <div class="card-text">
+                        {{review.name}}
+                    </div>
+                </div>
+                <div class="card-body">
+                    <div class="card-text">{{review.description}}</div>
+                </div>
+            </div>
+        </div>
+        
+        <form #form="ngForm" (ngSubmit)="submitReview()">
+            <div class="mb-3 review">
+                <label for="name" class="form-label"><b>Review this product</b></label>
+                <textarea [(ngModel)]="review.description" class="form-control" id="review" rows="3"
+                    name="description"></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+</div>
