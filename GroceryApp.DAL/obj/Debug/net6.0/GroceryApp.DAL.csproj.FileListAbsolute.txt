@@ -1,0 +1,28 @@
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.DAL\bin\Debug\net6.0\GroceryApp.DAL.deps.json
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.DAL\bin\Debug\net6.0\GroceryApp.DAL.runtimeconfig.json
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.DAL\bin\Debug\net6.0\GroceryApp.DAL.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.DAL\bin\Debug\net6.0\GroceryApp.DAL.pdb
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.DAL\obj\Debug\net6.0\GroceryApp.DAL.csproj.AssemblyReference.cache
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.DAL\obj\Debug\net6.0\GroceryApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.DAL\obj\Debug\net6.0\GroceryApp.DAL.AssemblyInfoInputs.cache
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.DAL\obj\Debug\net6.0\GroceryApp.DAL.AssemblyInfo.cs
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.DAL\obj\Debug\net6.0\GroceryApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.DAL\obj\Debug\net6.0\GroceryApp.DAL.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.DAL\obj\Debug\net6.0\refint\GroceryApp.DAL.dll
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.DAL\obj\Debug\net6.0\GroceryApp.DAL.pdb
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.DAL\obj\Debug\net6.0\GroceryApp.DAL.genruntimeconfig.cache
+C:\Users\tusharawasthi\Desktop\Training\Exit Test\GroceryApp\GroceryApp.Presentation\GroceryApp.DAL\obj\Debug\net6.0\ref\GroceryApp.DAL.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.DAL\bin\Debug\net6.0\GroceryApp.DAL.deps.json
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.DAL\bin\Debug\net6.0\GroceryApp.DAL.runtimeconfig.json
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.DAL\bin\Debug\net6.0\GroceryApp.DAL.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.DAL\bin\Debug\net6.0\GroceryApp.DAL.pdb
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.DAL\obj\Debug\net6.0\GroceryApp.DAL.csproj.AssemblyReference.cache
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.DAL\obj\Debug\net6.0\GroceryApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.DAL\obj\Debug\net6.0\GroceryApp.DAL.AssemblyInfoInputs.cache
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.DAL\obj\Debug\net6.0\GroceryApp.DAL.AssemblyInfo.cs
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.DAL\obj\Debug\net6.0\GroceryApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.DAL\obj\Debug\net6.0\GroceryApp.DAL.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.DAL\obj\Debug\net6.0\refint\GroceryApp.DAL.dll
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.DAL\obj\Debug\net6.0\GroceryApp.DAL.pdb
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.DAL\obj\Debug\net6.0\GroceryApp.DAL.genruntimeconfig.cache
+C:\Users\tusharawasthi\Desktop\Training\Ronnie Assignment\Exit Test\GroceryApp\GroceryApp.DAL\obj\Debug\net6.0\ref\GroceryApp.DAL.dll
